@@ -1,4 +1,5 @@
 module.exports = {
-  mongoURI: "mongodb://rishipr:teams123@ds155815.mlab.com:55815/teams",
-  secretOrKey: "secret"
+  mongoURI:
+    "mongodb+srv://allistermugaisi:2Muccinex@teams-cluster-zdwqg.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  secretOrKey: "secret",
 };
